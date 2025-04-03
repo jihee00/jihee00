@@ -6,6 +6,8 @@
 📫 Reach me at [jiheecreates@gmail.com](mailto:jiheecreates@gmail.com). <br/>
 
 ## Tech Stack
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-000000?style=flat&logo=wix&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus) 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) 
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android) 
